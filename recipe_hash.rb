@@ -1,4 +1,3 @@
-
 perfect_10_recipe = {}
 perfect_10_recipe[:almond_flour]="2 cups"
 perfect_10_recipe[:gluten_freewhole_oats]="1 cup"
@@ -7,7 +6,7 @@ perfect_10_recipe[:baking_powder]="1/2 tea spoon"
 perfect_10_recipe[:baking_soda]="1/4 tea spoon"
 perfect_10_recipe[:Xanthan_Gum]="1/2 tea spoon"
 perfect_10_recipe[:slivered_almonds_lightly_toasted]="1/4 cup"
-perfect_10_recipe[:mini_dark_chocolate_chips]="3/4 cup"
+perfect_10_recipe[:mini_dark_chocolate_chips]="3 cups"
 perfect_10_recipe[:olive_oil]="1/ cup"
 perfect_10_recipe[:agave]="1/4 cup"
 
