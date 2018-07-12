@@ -34,7 +34,7 @@ end
 
 def amounts(perfect_10_recipe)
   perfect_10_recipe.each_value do |amt|
-    puts "amt"
+    puts amt
   end
 end
 
