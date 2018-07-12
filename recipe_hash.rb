@@ -1,5 +1,5 @@
 
-perfect_10_recipe{}
+perfect_10_recipe = {}
 perfect_10_recipe{:almond_flour}="2 cups"
 perfect_10_recipe{:gluten_freewhole_oats}="1 cup"
 perfect_10_recipe{:kosher_salt}="1/2 tea spoon"
